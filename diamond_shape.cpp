@@ -1,3 +1,8 @@
+/* NAME: NJWEI DIVINE ACHIRI 
+   DPT: SOFTWARE ENGINEERING 
+   MAT: 504125 */
+
+
 #include<iostream>
 using namespace std;
 int dimond_shape(){
